@@ -87,6 +87,10 @@ section.recent-posts {
     margin-bottom: 0;
 }
 
+.page.section-title {
+    margin: 1rem 0 2rem;
+}
+
 .section-title h2 {
     border-bottom: 1px solid rgba(0, 0, 0, .125);
     margin-bottom: 25px;
@@ -667,6 +671,11 @@ ul.tags li a:hover {
 
 .graybg.authorpage {
     border-top: 1px solid #f0f0f0;
+}
+
+.postbox-link {
+    display: block;
+    flex: 1 1 auto;
 }
 
 .authorpostbox {
