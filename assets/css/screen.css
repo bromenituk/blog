@@ -8,7 +8,11 @@ License: https://www.wowthemes.net/freebies-license/
     .container {max-width:80%;}
 }
 .mainheading {
-    padding: 1rem 0rem;
+    margin: 1rem 0;
+    border-bottom: 1px solid #cfcfcf;
+}
+.post-mainheading {
+    padding: 0rem 0rem 1rem;
 }
 
 a {
@@ -185,6 +189,10 @@ section.recent-posts {
 
 .post-top-meta {
     margin-bottom: 2rem;
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 .post-top-meta .author-thumb {
@@ -308,7 +316,8 @@ span.post-read-more a:hover {
     font-family: Righteous;
 }
 
-.mainheading h1.posttitle {
+.mainheading h1.posttitle,
+.post-mainheading h1.posttitle {
     font-weight: 700;
     margin-bottom: 1rem;
 }
