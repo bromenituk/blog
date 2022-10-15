@@ -25,7 +25,7 @@ Frustriert schmeißen Sie die kaputte Hülle zurück in die kleine Versandschach
 <p>Doch das ist erst der Anfang. Unüberschaubar sind mittlerweile die Mittel und Wege der verschiedenen Amazon-Anbieter, an gute Bewertungen zu kommen. Verständlich – denn die Konkurrenz ist groß und nur, wer viele Verkäufe und zusätzlich noch ausreichend gute Bewertungen hat, rankt in den Suchergebnissen ganz oben.</p>
 <p>Auf Facebook gibt es beispielsweise ganze Netzwerke von Usern, die sich gegenseitig gute Bewertungen zuschustern. Auch beliebt sind Facebook-Gruppen, auf denen Anbieter ihre Produkte „kostenlos“ anpreisen. Zwar müssen die dann erst einmal gekauft werden, doch versprechen die Anbieter als Dank für eine sehr gute Rezension, das Geld im Anschluss zurückzuüberweisen.</p>
 
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="/assets/images/posts/2020-10-21-amazon-bewertungen-pruefen/1.png" alt="" class="wp-image-428" width="503" height="377"/></figure></div>
+![facebook-posting]({{ site.baseurl }}/assets/images/posts/2020-10-21-amazon-bewertungen-pruefen/1.png)
 
 <p><strong>Was taugen Bewertungen auf Amazon und Co. wirklich?</strong></p>
 
@@ -44,7 +44,7 @@ Frustriert schmeißen Sie die kaputte Hülle zurück in die kleine Versandschach
 </ol>
 <p>Die Mühe, einen langen Text zu schreiben, machen sich in der Regel nur KundInnen, die von ihrem Einkauf sehr enttäuscht sind. Sehr detailliert schildern sie, was mit dem Produkt nicht stimmt und weshalb es sein Geld nicht wert war. Zufriedene KundInnen fassen sich für gewöhnlich eher kurz. Schwärmt also eine KäuferIn besonders detailliert von einem Artikel, ist dies ein Grund, skeptisch zu werden.</p>
 
-<figure class="wp-block-image size-large is-resized"><img src="/assets/images/posts/2020-10-21-amazon-bewertungen-pruefen/2.png" alt="" class="wp-image-421" width="818" height="195"/></figure>
+![amazon-review-positiv]({{ site.baseurl }}/assets/images/posts/2020-10-21-amazon-bewertungen-pruefen/2.png)
 
 <p>&nbsp;</p>
 <ol start="4">
@@ -67,7 +67,7 @@ Frustriert schmeißen Sie die kaputte Hülle zurück in die kleine Versandschach
 </ul>
 <p>&nbsp;</p>
 
-<figure class="wp-block-image size-large is-resized"><img src="/assets/images/posts/2020-10-21-amazon-bewertungen-pruefen/3.png" alt="" class="wp-image-422" width="805" height="189"/></figure>
+![amazon-review-negativ]({{ site.baseurl }}/assets/images/posts/2020-10-21-amazon-bewertungen-pruefen/3.png)
 
 <p> </p>
 <p><strong>Rezensionen bewerten und nutzen</strong></p>
