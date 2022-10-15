@@ -1,6 +1,7 @@
 ---
 layout: post
 author: bromenituk
+image: assets/images/posts/2022-04-27-ein-gruener-geburtstag-saftiger-karottenkuchen.png
 title: "Badezimmer in Transformation: 7 Hacks für nachhaltiges Baden und Waschen"
 date: 2022-04-27 11:29
 comments: false

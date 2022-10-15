@@ -1,6 +1,7 @@
 ---
 layout: post
 author: bromenituk
+image: assets/images/posts/2022-04-27-ein-gruener-geburtstag-saftiger-karottenkuchen.png
 title: Die Adjektiv-Diät! Jetzt ausprobieren!
 date: 2019-02-26 15:07
 comments: false

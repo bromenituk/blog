@@ -1,6 +1,7 @@
 ---
 layout: post
 author: bromenituk
+image: assets/images/posts/2022-04-27-ein-gruener-geburtstag-saftiger-karottenkuchen.png
 title: Frühling im Februar
 date: 2019-02-18 08:00
 comments: false

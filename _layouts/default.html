@@ -61,6 +61,12 @@
             <!-- Begin Logo -->
             <a class="navbar-brand" href="{{ site.baseurl }}/">
                 <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+                {% if page.url != site.baseurl %}
+                    <div class="nav-main-title">
+                        <h1>Bromenituk</h1>
+                        <p>Einmal eine Portion Gedanken fuer alle</p>
+                    </div>
+                {% endif %}
             </a>
             <!-- End Logo -->
 
@@ -120,12 +126,15 @@
 
             <!-- Site Title
 ================================================== -->
-            <div class="mainheading">
-                <h1 class="sitetitle">{{ site.name }}</h1>
-                <p class="lead">
-                    {{ site.description }}
-                </p>
-            </div>
+            
+            {% if page.url == site.baseurl %}
+                <div class="mainheading" style="text-align: center;margin: 1.5rem 0;border-bottom: 0;">
+                    <h1 class="sitetitle">{{ site.name }}</h1>
+                    <p class="lead">
+                        {{ site.description }}
+                    </p>
+                </div>
+            {% endif %}
 
             <!-- Content
 ================================================== -->

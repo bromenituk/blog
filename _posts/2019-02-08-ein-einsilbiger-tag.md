@@ -1,6 +1,7 @@
 ---
 layout: post
 author: bromenituk
+image: assets/images/posts/2022-04-27-ein-gruener-geburtstag-saftiger-karottenkuchen.png
 title: Ein einsilbiger Tag
 date: 2019-02-08 22:47
 comments: false

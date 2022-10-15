@@ -1,6 +1,7 @@
 ---
 layout: post
 author: bromenituk
+image: assets/images/posts/2022-04-27-ein-gruener-geburtstag-saftiger-karottenkuchen.png
 title: Das Postfach-Monster
 date: 2019-02-25 13:22
 comments: false
