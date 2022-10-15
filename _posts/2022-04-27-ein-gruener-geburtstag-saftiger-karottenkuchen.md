@@ -1,6 +1,7 @@
 ---
 layout: post
 author: bromenituk
+image: assets/images/posts/2022-04-27-ein-gruener-geburtstag-saftiger-karottenkuchen.png
 title: "Ein grüner Geburtstag: Saftiger Karottenkuchen"
 date: 2022-04-27 12:08
 comments: false
