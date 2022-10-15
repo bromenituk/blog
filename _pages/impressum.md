@@ -54,10 +54,7 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.&nbsp;B. bei de
 <h3>Hinweis zur verantwortlichen Stelle</h3>
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-kontakt@bromenituk.de
-
-Telefon: [Telefonnummer der verantwortlichen Stelle]
-E-Mail: [E-Mail-Adresse der verantwortlichen Stelle]
+kontakt (at) bromenituk (punkt) de
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.&nbsp;B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 <h3>Widerruf Ihrer Einwilligung zur Datenverarbeitung</h3>
