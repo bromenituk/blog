@@ -15,6 +15,8 @@ vgwort: 8936ce2190d742a7a1d97c5631a31480
 
 Zugegeben: Es gibt wohl kaum einen Karottenkuchen, der nicht mindestens vegetarisch ist. Häufig vergessen wir Menschen aber einfach, wie viele leckere Gerichte und Speisen von sich aus bereits vegetarisch oder sogar vegan sind. Wenn wir dann noch ein wenig weiter gehen und bei den verwendeten Zutaten auf deren Herkunft achten, haben wir schon jede Menge Gutes getan.
 
+<!--end_excerpt-->
+
 Ein grünes Kaffeekränzchen oder eine umweltfreundliche Geburtstagsparty kann aber auch über den Kuchen hinausgedacht werden: Zum Beispiel durch den Verzicht auf Einweggeschirr und Plastikbesteck, das Servieren von nachhaltig angebautem Fairtrade-Kaffee und -Tee sowie nachhaltig produzierten Getränken aus Glasflaschen. Selbstverständlich gehören auch Plastikstrohhalme der Vergangenheit an.
 
 Sollte ihr etwas ausgedehnter und in den Abend hineinfeiern wollen, ist Bier eine bessere Wahl als härtere Alkoholika. Das spart den Kater und der Welt Ressourcen. Bier wird nämlich in der Regel in Mehrwegflaschen abgefüllt, Schnaps und Wein hingegen nicht. Zwar lassen sich Einwegflaschen recyceln, jedoch sind deren Kreisläufe nicht immer einwandfrei und sehr energieintensiv. Besonders gut eignen sich Bio-Biere aus regionalem Anbau wie zum Beispiel das <a href="https://www.hellers.koeln/" target="_blank">Hellers</a>.
