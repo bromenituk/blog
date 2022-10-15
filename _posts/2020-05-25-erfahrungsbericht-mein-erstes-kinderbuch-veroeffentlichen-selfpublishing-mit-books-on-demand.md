@@ -1,7 +1,7 @@
 ---
 layout: post
 author: bromenituk
-image: assets/images/posts/2022-04-27-ein-gruener-geburtstag-saftiger-karottenkuchen.png
+image: assets/images/posts/2020-05-25-erfahrungsbericht-mein-erstes-kinderbuch-veroeffentlichen-selfpublishing-mit-books-on-demand.jpg
 title: "Erfahrungsbericht: Mein erstes Kinderbuch veröffentlichen Selfpublishing mit BoD"
 date: 2020-05-25 23:04
 comments: false

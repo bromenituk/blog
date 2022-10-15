@@ -1,7 +1,7 @@
 ---
 layout: post
 author: bromenituk
-image: assets/images/posts/2022-04-27-ein-gruener-geburtstag-saftiger-karottenkuchen.png
+image: assets/images/posts/2019-02-08-liebe-frau-reker-koeln-is-e-jefoehl.jpg
 title: "Liebe Frau Reker: Köln is e Jeföhl!"
 date: 2019-02-08 22:05
 comments: false

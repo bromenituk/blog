@@ -1,7 +1,7 @@
 ---
 layout: post
 author: bromenituk
-image: assets/images/posts/2022-04-27-ein-gruener-geburtstag-saftiger-karottenkuchen.png
+image: assets/images/posts/2019-02-08-ueber-chancengleichheit-physische-attraktivitaet-und-schmetterlinge.jpg
 title: Über Chancengleichheit, Physische Attraktivität und Schmetterlinge
 date: 2019-02-08 23:44
 comments: false

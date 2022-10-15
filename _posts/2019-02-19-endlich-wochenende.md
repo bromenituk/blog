@@ -1,7 +1,7 @@
 ---
 layout: post
 author: bromenituk
-image: assets/images/posts/2022-04-27-ein-gruener-geburtstag-saftiger-karottenkuchen.png
+image: assets/images/posts/2019-02-19-endlich-wochenende.jpg
 title: Hallo scheiß Wochenende
 date: 2019-02-19 00:33
 comments: false

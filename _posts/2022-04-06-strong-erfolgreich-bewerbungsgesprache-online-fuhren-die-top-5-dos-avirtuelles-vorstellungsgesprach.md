@@ -1,7 +1,7 @@
 ---
 layout: post
 author: bromenituk
-image: assets/images/posts/2022-04-27-ein-gruener-geburtstag-saftiger-karottenkuchen.png
+image: assets/images/posts/2022-04-06-strong-erfolgreich-bewerbungsgesprache-online-fuhren-die-top-5-dos-avirtuelles-vorstellungsgesprach.jpeg
 title: "Erfolgreich Bewerbungsgespräche online führen: die Top 5 Dos and Don’ts für dein virtuelles Vorstellungsgespräch"
 date: 2022-04-06 11:36
 comments: false

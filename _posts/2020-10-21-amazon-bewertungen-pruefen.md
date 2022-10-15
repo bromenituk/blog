@@ -1,7 +1,7 @@
 ---
 layout: post
 author: bromenituk
-image: assets/images/posts/2022-04-27-ein-gruener-geburtstag-saftiger-karottenkuchen.png
+image: assets/images/posts/2020-10-21-amazon-bewertungen-pruefen.png
 title: "Amazon: Bewertungen prüfen"
 date: 2020-10-21 11:40
 comments: false

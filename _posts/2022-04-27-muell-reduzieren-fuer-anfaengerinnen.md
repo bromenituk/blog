@@ -1,7 +1,7 @@
 ---
 layout: post
 author: bromenituk
-image: assets/images/posts/2022-04-27-ein-gruener-geburtstag-saftiger-karottenkuchen.png
+image: assets/images/posts/2022-04-27-muell-reduzieren-fuer-anfaengerinnen.png
 title: Müll reduzieren für AnfängerInnen
 date: 2022-04-27 11:16
 comments: false
