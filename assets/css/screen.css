@@ -7,6 +7,26 @@ License: https://www.wowthemes.net/freebies-license/
     html { font-size:18px; } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
 }
+.nav-main-title {
+    display: inline-block;
+    vertical-align: middle;
+}
+.nav-main-title h1 {
+    font-size: 1.25rem;
+    margin: 0;
+    line-height: 1.25rem;
+    margin-left: -1px;
+}
+@media (max-width: 345px) {
+    .nav-main-title p { display: none; }
+}
+.nav-main-title p {
+    font-size: .75rem;
+    margin: 0;
+    line-height: .75rem;
+    font-weight: 300;
+}
+
 .mainheading {
     margin: 1rem 0;
     border-bottom: 1px solid #cfcfcf;
