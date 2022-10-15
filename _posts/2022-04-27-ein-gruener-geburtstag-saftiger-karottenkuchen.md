@@ -25,7 +25,7 @@ Ich habe bislang noch keinen Karottenkuchen gegessen, der mir besser geschmeckt 
 ## Saftiger Karottenkuchen mit Frischkäse-Topping
 > **Zeitaufwand**: &lt; 70 min \
 > **Vegetarisch**: reicht für einen Kuchen \
-> *Bitte nur Bio-Produkte verwenden:*
+> *Bitte nur Bio-Produkte verwenden*
 
 ## Zutaten 
 
