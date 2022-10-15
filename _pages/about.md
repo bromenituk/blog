@@ -26,7 +26,7 @@ Bromenituk heißt: eigentlich <a target="_blank" href="https://www.xing.com/prof
 
 <div class="col-md-4">
 <div class="sticky-top sticky-top-80">
-IMG
+    <img style='max-width: 100%;' src="{{site.baseurl}}/assets/images/bromenituk.png" alt="avatar - bromenituk">
 </div>
 </div>
 </div>
