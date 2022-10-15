@@ -1,8 +1,10 @@
 ---
 layout: post
+author: bromenituk
 title: Klimafreundlich fortbewegen in Köln - ein Selbstversuch mit Kind
 date: 2022-04-27 11:47
-comments: true
+comments: false
+categories: [Allgemein, Nachhaltigkeit]
 tags: [Allgemein, Nachhaltigkeit]
 ---
 <!-- wp:tadv/classic-paragraph -->

@@ -1,8 +1,10 @@
 ---
 layout: post
+author: bromenituk
 title: "Ein grüner Geburtstag: Saftiger Karottenkuchen"
 date: 2022-04-27 12:08
-comments: true
+comments: false
+categories: [Allgemein, Gesellschaft, Nachhaltigkeit]
 tags: [Allgemein, Gesellschaft, Nachhaltigkeit]
 ---
 <!-- wp:tadv/classic-paragraph -->

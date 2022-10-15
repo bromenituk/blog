@@ -1,8 +1,10 @@
 ---
 layout: post
+author: bromenituk
 title: Der Bachelor und der Bachelor
 date: 2019-02-08 22:16
-comments: true
+comments: false
+categories: [Allgemein, bachelor, Bewegendes, lernen, rtl, studium, universität]
 tags: [Allgemein, bachelor, Bewegendes, lernen, rtl, studium, universität]
 ---
 <!-- wp:paragraph -->

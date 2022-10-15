@@ -1,8 +1,10 @@
 ---
 layout: post
+author: bromenituk
 title: "Erfahrungsbericht: Mein erstes Kinderbuch veröffentlichen Selfpublishing mit BoD"
 date: 2020-05-25 23:04
-comments: true
+comments: false
+categories: [Allgemein]
 tags: [Allgemein]
 ---
 <!-- wp:tadv/classic-paragraph -->

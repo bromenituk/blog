@@ -1,8 +1,10 @@
 ---
 layout: post
+author: bromenituk
 title: Das Postfach-Monster
 date: 2019-02-25 13:22
-comments: true
+comments: false
+categories: [Allgemein, Mail, Marketing, Newsletter, Postfach, Spam, Werbung]
 tags: [Allgemein, Mail, Marketing, Newsletter, Postfach, Spam, Werbung]
 ---
 <!-- wp:paragraph -->

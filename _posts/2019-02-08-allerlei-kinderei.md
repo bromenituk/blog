@@ -1,8 +1,10 @@
 ---
 layout: post
+author: bromenituk
 title: Allerlei Kinderei
 date: 2019-02-08 22:32
-comments: true
+comments: false
+categories: [Allgemein, kinder, Kinder, reime, schabernack, Sprache, textakrobatik, witze]
 tags: [Allgemein, kinder, Kinder, reime, schabernack, Sprache, textakrobatik, witze]
 ---
 <!-- wp:paragraph -->

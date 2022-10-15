@@ -5,31 +5,28 @@ permalink: /ueber-bromenituk
 comments: false
 ---
 
+## Was, oder besser gefragt, wer ist eigentlich Bromenituk?
+
 <div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+    <div class="col-md-8 pr-5">
+        
+Bromenituk ist: eine junge Kölnerin, [Kinderbuchautorin](https://euleweule.de/), [Kochbuchautorin](https://www.amazon.de/gp/product/B08KQZ846M?pf_rd_r=W549SKD6560CW8Z82B1A&pf_rd_p=e74560f2-413d-4879-8f94-12e0d76ee953), Texterin, Mami, [Läuferin](http://www.marathon-ergebnis.de/cgi-bin/edbGesamtDetailSuche.php?Seite=26017&Total=960140&MW=&AK=1&Ergebnis=0:00:00&Jahr=2009&Nachname=&Vorname=&Verein=&VerTag=&VerOrt=&AproSeite=30) und Lebefrau.
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+Bromenituk macht: Yoga, Reisen, Schabernack und immer wieder mal was Neues.
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+Bromenituk mag: Herausforderungen, die deutsche Sprache, Radfahren, Sushi, Grünspechte, Lilien und Nelken.
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+Bromenituk hat: Schuhgröße 41, viele Ideen, Glück und Flausen im Kopf.
 
-<h4>Questions or bug reports?</h4>
+Bromenituk schreibt: Kurzgeschichten, Langgeschichten, Kindergeschichten, witzige Geschichten, komische Geschichten, Wortfetzen, Einkaufszettel, Briefe, Postkarten, Notizzettel und Hochzeitsreden.
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+Bromenituk heißt: eigentlich [Friederike Zoubaa](https://www.xing.com/profile/Friederike_Zoubaa/cv).
 
-</div>
+    </div>
 
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
+    <div class="col-md-4">
+        <div class="sticky-top sticky-top-80">
+            IMG
+        </div>
+    </div>
 </div>

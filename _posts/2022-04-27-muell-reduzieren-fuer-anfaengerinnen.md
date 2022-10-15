@@ -1,8 +1,10 @@
 ---
 layout: post
+author: bromenituk
 title: Müll reduzieren für AnfängerInnen
 date: 2022-04-27 11:16
-comments: true
+comments: false
+categories: [Allgemein, Nachhaltigkeit]
 tags: [Allgemein, Nachhaltigkeit]
 ---
 <!-- wp:tadv/classic-paragraph -->

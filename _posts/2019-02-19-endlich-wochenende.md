@@ -1,8 +1,10 @@
 ---
 layout: post
+author: bromenituk
 title: Hallo scheiß Wochenende
 date: 2019-02-19 00:33
-comments: true
+comments: false
+categories: [Allgemein, ausgehen, Beziehungen, beziehungen, bier, feiern, freitagabend, Gesellschaft, kneipe, Kurzgeschichten, party, single, Sprache, tanzen, textakrobatik, Wochenende]
 tags: [Allgemein, ausgehen, Beziehungen, beziehungen, bier, feiern, freitagabend, Gesellschaft, kneipe, Kurzgeschichten, party, single, Sprache, tanzen, textakrobatik, Wochenende]
 ---
 <!-- wp:paragraph -->

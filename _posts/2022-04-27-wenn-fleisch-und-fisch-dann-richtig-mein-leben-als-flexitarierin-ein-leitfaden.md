@@ -1,9 +1,12 @@
 ---
 layout: post
+author: bromenituk
 title: Wenn Fleisch und Fisch, dann richtig!
 date: 2022-04-27 11:59
-comments: true
+comments: false
+categories: [Allgemein, Gesellschaft, Nachhaltigkeit]
 tags: [Allgemein, Gesellschaft, Nachhaltigkeit]
+featured: true
 ---
 
 <!-- wp:tadv/classic-paragraph -->

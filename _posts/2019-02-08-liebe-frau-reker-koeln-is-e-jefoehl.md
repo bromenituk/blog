@@ -1,8 +1,10 @@
 ---
 layout: post
+author: bromenituk
 title: "Liebe Frau Reker: Köln is e Jeföhl!"
 date: 2019-02-08 22:05
-comments: true
+comments: false
+categories: [Allgemein, Bewegendes, jeföhl, kölle, köln, Köln, kölner hauptbahnhof, reker, silvester 2016, übergriffe]
 tags: [Allgemein, Bewegendes, jeföhl, kölle, köln, Köln, kölner hauptbahnhof, reker, silvester 2016, übergriffe]
 ---
 <!-- wp:paragraph -->

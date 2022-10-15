@@ -1,8 +1,10 @@
 ---
 layout: post
+author: bromenituk
 title: "Amazon: Bewertungen prüfen"
 date: 2020-10-21 11:40
-comments: true
+comments: false
+categories: [Allgemein]
 tags: [Allgemein]
 ---
 <!-- wp:tadv/classic-paragraph -->

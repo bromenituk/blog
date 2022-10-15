@@ -1,8 +1,10 @@
 ---
 layout: post
+author: bromenituk
 title: "Erfolgreich Bewerbungsgespräche online führen: die Top 5 Dos and Don’ts für dein virtuelles Vorstellungsgespräch"
 date: 2022-04-06 11:36
-comments: true
+comments: false
+categories: [Allgemein, Studium]
 tags: [Allgemein, Studium]
 ---
 <p><strong>Sich online präsentieren: die perfekte Vorbereitung</strong></p>

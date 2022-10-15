@@ -1,8 +1,10 @@
 ---
 layout: post
+author: bromenituk
 title: Frühling im Februar
 date: 2019-02-18 08:00
-comments: true
+comments: false
+categories: [Allgemein, frühling, gedanken, glück, Köln, Kurzgeschichten, lachen, natur, selbstversuch, Sommer, Sonne]
 tags: [Allgemein, frühling, gedanken, glück, Köln, Kurzgeschichten, lachen, natur, selbstversuch, Sommer, Sonne]
 ---
 <strong>Prolog</strong>

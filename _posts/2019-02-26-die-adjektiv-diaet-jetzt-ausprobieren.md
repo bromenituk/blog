@@ -1,8 +1,10 @@
 ---
 layout: post
+author: bromenituk
 title: Die Adjektiv-Diät! Jetzt ausprobieren!
 date: 2019-02-26 15:07
-comments: true
+comments: false
+categories: [adjektiv, Allgemein, deutsch, diät, Gesellschaft, gesellschaft, köln, Kurzgeschichten, neumarkt, obdachlos, Sprache, sprache]
 tags: [adjektiv, Allgemein, deutsch, diät, Gesellschaft, gesellschaft, köln, Kurzgeschichten, neumarkt, obdachlos, Sprache, sprache]
 ---
 <p>Fasten mal anders: Durch Adjektiv-Fasten

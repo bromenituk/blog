@@ -1,8 +1,10 @@
 ---
 layout: post
+author: bromenituk
 title: Über Chancengleichheit, Physische Attraktivität und Schmetterlinge
 date: 2019-02-08 23:44
-comments: true
+comments: false
+categories: [Allgemein, attraktivität, Beziehungen, beziehungen, flirt, Gesellschaft, Kurzgeschichten, liebe, schmetterlinge, Sommer, Studium, verliebt]
 tags: [Allgemein, attraktivität, Beziehungen, beziehungen, flirt, Gesellschaft, Kurzgeschichten, liebe, schmetterlinge, Sommer, Studium, verliebt]
 ---
 <!-- wp:paragraph -->

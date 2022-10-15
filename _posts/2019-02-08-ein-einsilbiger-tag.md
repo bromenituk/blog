@@ -1,8 +1,10 @@
 ---
 layout: post
+author: bromenituk
 title: Ein einsilbiger Tag
 date: 2019-02-08 22:47
-comments: true
+comments: false
+categories: [Allgemein, kurzgeschichte, Kurzgeschichten, liebe, spaziergang, Sprache, textakrobatik]
 tags: [Allgemein, kurzgeschichte, Kurzgeschichten, liebe, spaziergang, Sprache, textakrobatik]
 ---
 <!-- wp:paragraph -->
