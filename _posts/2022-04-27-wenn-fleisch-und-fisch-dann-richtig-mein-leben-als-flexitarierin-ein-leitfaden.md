@@ -8,6 +8,7 @@ comments: false
 categories: [Allgemein, Gesellschaft, Nachhaltigkeit]
 tags: [Allgemein, Gesellschaft, Nachhaltigkeit]
 featured: true
+hidden: true
 ---
 
 <!-- wp:tadv/classic-paragraph -->
