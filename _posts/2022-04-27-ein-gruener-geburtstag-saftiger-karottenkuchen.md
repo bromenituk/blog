@@ -9,7 +9,6 @@ categories: [Allgemein, Gesellschaft, Nachhaltigkeit]
 tags: [Allgemein, Gesellschaft, Nachhaltigkeit]
 featured: true
 hidden: true
-toc: true
 ---
 
 <img src="https://vg07.met.vgwort.de/na/8936ce2190d742a7a1d97c5631a31480" alt="" width="1" height="1" />
@@ -25,13 +24,12 @@ Sollte ihr etwas ausgedehnter und in den Abend hineinfeiern wollen, ist Bier ein
 Ich habe bislang noch keinen Karottenkuchen gegessen, der mir besser geschmeckt hat als dieser. Er passt natürlich zu jeder Kaffeerunde, nicht nur zu Geburtstags-Kuchentafeln. Als Nachspeise kommt er auch immer gut an.
 
 
-## Vegetarisch: Saftiger Karottenkuchen mit Frischkäse-Topping
-
-> Zeitaufwand: &lt; 70 min</b></p>
+## Saftiger Karottenkuchen mit Frischkäse-Topping
+> Vegetarisch, reicht für einen Kuchen \
+> *Bitte nur Bio-Produkte verwenden:* \
+> **Zeitaufwand**: &lt; 70 min
 
 ## Zutaten 
-
-> (für einen Kuchen) *Bitte nur Bio-Produkte verwenden:*
 
 ### Teig:
 - 400 g Karotten
@@ -73,4 +71,4 @@ Ich habe bislang noch keinen Karottenkuchen gegessen, der mir besser geschmeckt 
 
 9. Am Ende das Topping gleichmäßig auf dem Kuchen verteilen und schmecken lassen!
 
-> ==Was sind eure Lieblingsrezepte, die von sich aus ohne das Weglassen von Zutaten bereits vegetarisch oder vegan sind? Schreibt mir!==
+> Was sind eure Lieblingsrezepte, die von sich aus ohne das Weglassen von Zutaten bereits vegetarisch oder vegan sind? Schreibt mir!
