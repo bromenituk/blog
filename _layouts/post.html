@@ -13,6 +13,9 @@ post_class: post-template
         <!-- Post Share -->
         <div class="col-md-2 pl-0">
             {% include share.html %}
+            {% if page.vgwort %}
+                <img src="https://vg07.met.vgwort.de/na/{{ page.vgwort }}" alt="" width="1" height="1" />
+            {% endif %}
         </div>
 
         <!-- Post -->
