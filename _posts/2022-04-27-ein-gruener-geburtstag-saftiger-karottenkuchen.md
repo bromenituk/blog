@@ -9,10 +9,8 @@ categories: [Allgemein, Gesellschaft, Nachhaltigkeit]
 tags: [Allgemein, Gesellschaft, Nachhaltigkeit]
 featured: true
 hidden: true
+vgwort: 8936ce2190d742a7a1d97c5631a31480
 ---
-
-<img src="https://vg07.met.vgwort.de/na/8936ce2190d742a7a1d97c5631a31480" alt="" width="1" height="1" />
-
 ## Kaffee trinken, feiern und die Welt retten
 
 Zugegeben: Es gibt wohl kaum einen Karottenkuchen, der nicht mindestens vegetarisch ist. Häufig vergessen wir Menschen aber einfach, wie viele leckere Gerichte und Speisen von sich aus bereits vegetarisch oder sogar vegan sind. Wenn wir dann noch ein wenig weiter gehen und bei den verwendeten Zutaten auf deren Herkunft achten, haben wir schon jede Menge Gutes getan.
@@ -25,9 +23,9 @@ Ich habe bislang noch keinen Karottenkuchen gegessen, der mir besser geschmeckt 
 
 
 ## Saftiger Karottenkuchen mit Frischkäse-Topping
-> Vegetarisch, reicht für einen Kuchen \
+> **Zeitaufwand**: &lt; 70 min \
+> **Vegetarisch**: reicht für einen Kuchen \
 > *Bitte nur Bio-Produkte verwenden:* \
-> **Zeitaufwand**: &lt; 70 min
 
 ## Zutaten 
 
@@ -45,7 +43,7 @@ Ich habe bislang noch keinen Karottenkuchen gegessen, der mir besser geschmeckt 
 - Etwas Butter
 
 
-### Für das Topping:
+### Topping:
 - 125 g Butter
 - 150 g Puderzucker
 - 20 g Zitronensaft
