@@ -16,7 +16,7 @@ authors:
   bromenituk:
     name: Bromenituk
     display_name: Bromenituk
-    # gravatar: ''
+    avatar: 'assets/images/avatar.png'
     # email: wowthemesnet@gmail.com
     web: https://bromenituk.de
     # twitter: https://twitter.com/wowthemesnet
