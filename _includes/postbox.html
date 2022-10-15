@@ -28,6 +28,7 @@
                     </div>
                     {% endif %}
                 </h2>
+                <div>{{ post.excerpt | strip_html }}</div>
                 <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
             </div>
         </a>
