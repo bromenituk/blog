@@ -7,7 +7,6 @@ subtitle: "Einmal eine Portion Gedanken für alle"
 logo: 'assets/images/apple-touch-icon.png'
 favicon: 'assets/images/apple-touch-icon.png'
 baseurl: '/blog'
-image: 'assets/images/screenshot.png'
 # url: "https://bromenituk.de"
 google_analytics: 'UA-86180764-1'
 # disqus: 'Bromenituk'
