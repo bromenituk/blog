@@ -7,9 +7,8 @@ date: 2022-04-27 11:29
 comments: false
 categories: [Allgemein, Nachhaltigkeit]
 tags: [Allgemein, Nachhaltigkeit]
+vgwort: 4e6e62d46d084f94a8b0b1cfe1eecde4
 ---
-<!-- wp:tadv/classic-paragraph -->
-<p><img src="https://vg07.met.vgwort.de/na/4e6e62d46d084f94a8b0b1cfe1eecde4" alt="" width="1" height="1" /></p>
 <p><strong>Weniger umweltbelastende Stoffe ins Abwasser, Müll reduzieren</strong></p>
 <p><span style="font-weight: 400;">Da vermutlich niemand von uns von heute auf morgen alleine die Welt retten wird, ist es doch schon ein guter Anfang, wenn jede und jeder heute ein klitzekleines Bisschen dazu beiträgt. Und das geht viel einfacher, als ihr jetzt vielleicht befürchtet.</span></p>
 <p><span style="font-weight: 400;">Beschränken wir uns zum Beispiel erst einmal aufs Badezimmer und schauen ein wenig genauer hin:</span></p>

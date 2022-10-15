@@ -7,6 +7,7 @@ date: 2019-02-08 22:16
 comments: false
 categories: [Allgemein, bachelor, Bewegendes, lernen, rtl, studium, universität]
 tags: [Allgemein, bachelor, Bewegendes, lernen, rtl, studium, universität]
+vgwort: 7606fb1a152e4af5ad35c39be44f2539
 ---
 <!-- wp:paragraph -->
 <p>Der Bachelor: Ein
@@ -155,7 +156,3 @@ Mit- und Selberdenken – um nicht zu sagen: Es kotzt mich an! Ein bisschen
 Schuld an diesem Text ist aber vielleicht auch ein kleiner Kater, den ich ein
 paar Kölsch zu viel von gestern Abend zu verdanken habe…</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:tadv/classic-paragraph -->
-<p><img src="https://vg07.met.vgwort.de/na/7606fb1a152e4af5ad35c39be44f2539" alt="" width="1" height="1" /></p>
-<!-- /wp:tadv/classic-paragraph -->

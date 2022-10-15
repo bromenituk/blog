@@ -7,6 +7,7 @@ date: 2020-05-25 23:04
 comments: false
 categories: [Allgemein]
 tags: [Allgemein]
+vgwort: 4779bd897595420e872da84eb21c4a12
 ---
 <!-- wp:tadv/classic-paragraph -->
 <p><strong>Der Traum vom eigenen Kinderbuch </strong></p>
@@ -43,5 +44,3 @@ tags: [Allgemein]
 <p><strong>Mein zweites Kinderbuch</strong></p>
 <p>Die Summe aller Erfahrungen, die ich in den etwa drei Jahren Veröffentlichungsprozess gesammelt habe, ist für mich unbezahlbar. Mein größter Erfolg besteht darin, das Projekt abgeschlossen und meine erste Kindergeschichte publiziert zu haben. Weder meine Geschichte noch die Illustrationen oder das Preisleistungsverhältnis sind geeignet, um daraus großen Profit zu schlagen. Dennoch habe ich mithilfe von ein wenig PR mein Ziel erreicht, ein paar Exemplare an Menschen zu verkaufen, die mich nicht persönlich kennen. Außerdem habe ich gemeinsam mit der Illustratorin beschlossen, sämtliche Einnahmen aus unserem Projekt – thematisch passend – an den NABU-Vogel des Jahres zu spenden. Dass es sich bei „<a href="https://euleweule.de/">Eule Weule und das Glück</a>“ um ein Herzensprojekt handelt, sollte spätesten jetzt deutlich sein.</p>
 <p>Gerade arbeite ich an meinem zweiten Kinderbuch. Fast alles mache ich anders: Über das Protagonisten-Tier gibt es sicherlich noch kein anderes erfolgreiches Kinderbuch. Zwar habe ich auch dieses Mal nicht den Anspruch, viel Geld zu verdienen, aber ein besseres Preisleistungsverhältnis für meine junge Leserschaft und eventuell noch ein paar mehr verkaufte Exemplare würden mich schon ein wenig stolz und vielleicht auch glücklich machen. Aber das weiß nur die Eule Weule.</p>
-<p><img src="https://vg07.met.vgwort.de/na/4779bd897595420e872da84eb21c4a12" alt="" width="1" height="1" /></p>
-<!-- /wp:tadv/classic-paragraph -->

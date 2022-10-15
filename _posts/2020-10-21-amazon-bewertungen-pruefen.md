@@ -7,8 +7,8 @@ date: 2020-10-21 11:40
 comments: false
 categories: [Allgemein]
 tags: [Allgemein]
+vgwort: f87fa3d423e24d508734f73ce8bf9255
 ---
-<!-- wp:tadv/classic-paragraph -->
 <p>„Wow – das muss ein tolles Produkt sein“ denken Sie. Die von Ihnen angeklickte Handyhülle auf Amazon hat 95 Prozent überaus zufriedene KäuferInnen, welche die Hülle mit fünf Sternen bewertet haben. „Ab in den Einkaufswagen damit!“ Die Ernüchterung folgt zwei Tage später: Sie merken bereits direkt nach dem Auspacken der Handyhülle, dass dieser Artikel alles andere als hochwertig ist. Sie stecken Ihr neues Handy dennoch hinein und prompt bricht eine Ecke Plastik aus der Hülle heraus. Wie ist das möglich? Es hatte doch so wahnsinnig gute Bewertungen auf Amazon!</p>
 <p>Frustriert schmeißen Sie die kaputte Hülle zurück in die kleine Versandschachtel. Da entdecken Sie einen kleinen bunten Flyer, auf dem die Worte prangen:</p>
 <p style="text-align: center;"><em>***REWARD*** </em></p>
@@ -19,10 +19,7 @@ tags: [Allgemein]
 <p><strong>Rezensionstausch und Belohnung für viele Sterne</strong></p>
 <p>Doch das ist erst der Anfang. Unüberschaubar sind mittlerweile die Mittel und Wege der verschiedenen Amazon-Anbieter, an gute Bewertungen zu kommen. Verständlich – denn die Konkurrenz ist groß und nur, wer viele Verkäufe und zusätzlich noch ausreichend gute Bewertungen hat, rankt in den Suchergebnissen ganz oben.</p>
 <p>Auf Facebook gibt es beispielsweise ganze Netzwerke von Usern, die sich gegenseitig gute Bewertungen zuschustern. Auch beliebt sind Facebook-Gruppen, auf denen Anbieter ihre Produkte „kostenlos“ anpreisen. Zwar müssen die dann erst einmal gekauft werden, doch versprechen die Anbieter als Dank für eine sehr gute Rezension, das Geld im Anschluss zurückzuüberweisen.</p>
-<p><img src="https://vg07.met.vgwort.de/na/f87fa3d423e24d508734f73ce8bf9255" alt="" width="1" height="1" /></p>
-<!-- /wp:tadv/classic-paragraph -->
 
-<!-- wp:image {"align":"center","id":428,"width":503,"height":377} -->
 <div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://bromenituk.de/wp-content/uploads/2020/10/Bildschirmfoto-2020-10-21-um-11.55.13-edited.png" alt="" class="wp-image-428" width="503" height="377"/></figure></div>
 <!-- /wp:image -->
 
@@ -104,7 +101,3 @@ tags: [Allgemein]
 </li>
 </ul>
 <p>Seien Sie stets kritisch und lassen Sie sich nicht zu schnell von zu vielen zu guten Bewertungen täuschen. Jedoch ist es auch wichtig abzuwägen: Schnell vergeudet man mehrere Tage mit der Recherche nach „dem einen richtigen“ Produkt. Hier gilt es, das richtige Maß zu finden. In der Regel lassen sich Fehlkäufe –insbesondere bei mangelnder Qualität – bei den meisten Anbietern problemlos reklamieren oder umtauschen.</p>
-<p><img src="https://vg07.met.vgwort.de/na/f87fa3d423e24d508734f73ce8bf9255" alt="" width="1" height="1" /></p>
-<!-- /wp:tadv/classic-paragraph -->
-
-<!-- wp:tadv/classic-paragraph /-->

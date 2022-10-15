@@ -9,10 +9,8 @@ categories: [Allgemein, Gesellschaft, Nachhaltigkeit]
 tags: [Allgemein, Gesellschaft, Nachhaltigkeit]
 featured: true
 hidden: true
+vgwort: 4261a335fc9a4b72923b6de4137726ea
 ---
-
-<!-- wp:tadv/classic-paragraph -->
-<p><img src="https://vg07.met.vgwort.de/na/4261a335fc9a4b72923b6de4137726ea" alt="" width="1" height="1" /></p>
 <h2><span style="font-weight: 400;">Mein Leben als Flexitarierin - ein Leitfaden</span></h2>
 <p><span style="font-weight: 400;">Bei meinen bisherigen Versuchen, die Welt zu retten, bin ich sowohl als Veganerin als auch als Flexitarierin kläglich gescheitert. Nachdem sich mein Frust jedoch gelegt hatte, kam ich zu dem Schluss, dass es beim Thema Umwelt- und Klimaschutz beim Individuum nicht nur Schwarz-weiß gibt. Ich habe mir für meine Ernährung selber eine Faustregel erarbeitet, die es mir möglich macht, unsere Erde zu schonen und dennoch auf nichts gänzlich verzichten zu müssen. Meine flexitarische Faustregel lautet: </span></p>
 <p><span style="font-weight: 400;">4-1-1-1</span></p>

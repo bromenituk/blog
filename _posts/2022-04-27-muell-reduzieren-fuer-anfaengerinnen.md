@@ -7,9 +7,8 @@ date: 2022-04-27 11:16
 comments: false
 categories: [Allgemein, Nachhaltigkeit]
 tags: [Allgemein, Nachhaltigkeit]
+vgwort: 478f44845810455cad3b168500a27038
 ---
-<!-- wp:tadv/classic-paragraph -->
-<p><img src="https://vg07.met.vgwort.de/na/478f44845810455cad3b168500a27038" alt="" width="1" height="1" /></p>
 <p><strong>Ein lebendiger Leitfaden für eine bessere Welt</strong></p>
 <p><span style="font-weight: 400;">Meine ersten Versuche die Welt zu retten, scheiterten kläglich. Ich habe mich sowohl als Veganerin als auch als Vegetarierin versucht - beide Male erfolglos. Nachdem der Frust meiner Niederlagen abgeklungen war, kam ich zu dem Schluss, dass Weltretten nicht nur schwarz-weiß funktioniert: Jeder Schritt, mit dem ich die Umwelt ein kleines bisschen weniger schädige, ist ein guter Schritt. Und je mehr Schritte ich in diese Richtung gehe, desto weiter komme ich.</span></p>
 <p><strong>Weltretten: Zusammen schaffen wir Großes</strong></p>

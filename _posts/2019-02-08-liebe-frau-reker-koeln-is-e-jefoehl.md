@@ -7,6 +7,7 @@ date: 2019-02-08 22:05
 comments: false
 categories: [Allgemein, Bewegendes, jeföhl, kölle, köln, Köln, kölner hauptbahnhof, reker, silvester 2016, übergriffe]
 tags: [Allgemein, Bewegendes, jeföhl, kölle, köln, Köln, kölner hauptbahnhof, reker, silvester 2016, übergriffe]
+vgwort: 078906e369ef4f84adc6bebff7fb7580
 ---
 <!-- wp:paragraph -->
 <p>Diesen Brief verfasste ich im Januar 2016, im Anschluss an die <a href="https://www.zeit.de/gesellschaft/zeitgeschehen/2016-01/koeln-silvester-sexuelle-uebergriffe-raub-faq">Ereignisse</a> auf dem Bahnhofsvorplatz in der Silvesternacht. Genauer gesagt: im Anschluss an die <a href="https://www.welt.de/politik/deutschland/article150710788/Armlaengen-Tipp-sorgt-fuer-Spott-und-Wut.html">Reaktion von Kölns Oberbürgermeisterin</a> zu den Ereignissen.</p>
@@ -150,7 +151,3 @@ jecken Grüßen</p>
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
-
-<!-- wp:tadv/classic-paragraph -->
-<p><img src="https://vg07.met.vgwort.de/na/078906e369ef4f84adc6bebff7fb7580" alt="" width="1" height="1" /></p>
-<!-- /wp:tadv/classic-paragraph -->

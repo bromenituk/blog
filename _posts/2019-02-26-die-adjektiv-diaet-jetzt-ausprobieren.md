@@ -7,6 +7,7 @@ date: 2019-02-26 15:07
 comments: false
 categories: [adjektiv, Allgemein, deutsch, diät, Gesellschaft, gesellschaft, köln, Kurzgeschichten, neumarkt, obdachlos, Sprache, sprache]
 tags: [adjektiv, Allgemein, deutsch, diät, Gesellschaft, gesellschaft, köln, Kurzgeschichten, neumarkt, obdachlos, Sprache, sprache]
+vgwort: 6990b74bfa86405e8724b89ba8eaf1ef
 ---
 <p>Fasten mal anders: Durch Adjektiv-Fasten
 schnell zum Erfolg – mit knackigen Sätzen zu ansprechenden Texten. Die Diät für
@@ -194,7 +195,3 @@ nicht. Als Faustregel werde ich mir für die Zukunft merken: Jedes zweite
 Adjektiv kann ohne jegliche Verluste getrost gestrichen werden. Dann klappt das
 auch mit der Bikinifigur.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:tadv/classic-paragraph -->
-<p><img src="https://vg07.met.vgwort.de/na/6990b74bfa86405e8724b89ba8eaf1ef" alt="" width="1" height="1" /></p>
-<!-- /wp:tadv/classic-paragraph -->

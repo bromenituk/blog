@@ -7,6 +7,7 @@ date: 2019-02-08 23:44
 comments: false
 categories: [Allgemein, attraktivität, Beziehungen, beziehungen, flirt, Gesellschaft, Kurzgeschichten, liebe, schmetterlinge, Sommer, Studium, verliebt]
 tags: [Allgemein, attraktivität, Beziehungen, beziehungen, flirt, Gesellschaft, Kurzgeschichten, liebe, schmetterlinge, Sommer, Studium, verliebt]
+vgwort: 203c4a30d6a54270b6bb51bd79883f6b
 ---
 <!-- wp:paragraph -->
 <p>„Chancengleichheit“ – ein omnipräsentes Thema unserer Gesellschaft, welches mich, mit all seinen Facetten, schon seit einigen Jahren immer wieder beschäftigt. Zuerst waren da die offenkundigen Benachteiligungen von Homosexuellen, Frauen und Menschen mit Migrationshintergrund und der falschen ethnischen Zugehörigkeit oder Religion. Besonders verblüfft war ich dann, als ich vorletztes Semester in einem Seminar mit dem Titel „Physische Attraktivität“ mehr und mehr zu verstehen begann, dass das optische Erscheinungsbild eines Menschen eine bisher in meinem Bewusstsein latent gebliebene Form der potentiellen Benachteiligung oder Bevorzugung darstellt. Es gibt bereits ein unüberschaubares Ausmaß an betriebener Forschung zu eben diesem Thema.</p>
@@ -91,7 +92,3 @@ tags: [Allgemein, attraktivität, Beziehungen, beziehungen, flirt, Gesellschaft,
 <!-- wp:paragraph -->
 <p>Ich möchte deshalb der Attraktivitätsforschung die Frage stellen: Angenommen&nbsp;schöne Menschen haben es wirklich leichter im Leben, sind sie dann auch glücklichere Menschen?</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:tadv/classic-paragraph -->
-<p><img src="https://vg07.met.vgwort.de/na/203c4a30d6a54270b6bb51bd79883f6b" alt="" width="1" height="1" /></p>
-<!-- /wp:tadv/classic-paragraph -->

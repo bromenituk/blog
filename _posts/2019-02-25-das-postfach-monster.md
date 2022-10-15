@@ -7,6 +7,7 @@ date: 2019-02-25 13:22
 comments: false
 categories: [Allgemein, Mail, Marketing, Newsletter, Postfach, Spam, Werbung]
 tags: [Allgemein, Mail, Marketing, Newsletter, Postfach, Spam, Werbung]
+vgwort: 4779bd897595420e872da84eb21c4a12
 ---
 <!-- wp:paragraph -->
 <p>Egal ob wir hoch motiviert zu Beginn des Jahres einen
@@ -182,7 +183,3 @@ endlich wieder in Ruhe schlafen lassen. Bis zur nächsten Kundenkarte. </p>
 <!-- wp:paragraph -->
 <p>Schlaf gut liebes Monster und träum was Süßes! </p>
 <!-- /wp:paragraph -->
-
-<!-- wp:tadv/classic-paragraph -->
-<p><img src="https://vg07.met.vgwort.de/na/4779bd897595420e872da84eb21c4a12" alt="" width="1" height="1" /></p>
-<!-- /wp:tadv/classic-paragraph -->
