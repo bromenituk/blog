@@ -14,6 +14,8 @@ tags: [Allgemein, frühling, gedanken, glück, Köln, Kurzgeschichten, lachen, n
 
 Früher bin ich einfach joggen gegangen, habe während des Laufens geträumt und mir einen Text im Kopf zusammengebastelt. Zurück zu Hause setzte ich mich verschwitzt an den Schreibtisch und schrieb mein Gedankenwerk nieder. Das geht nun nicht mehr mal eben so. Dazu durchkreuzt mein Nachwuchs zu oft meine Pläne und auch mein Beckenboden macht da noch nicht mit.
 
+<!--end_excerpt-->
+
 Deshalb hier ein neuer Ansatz: Bei einem Spaziergang meine Gedanken mit Hilfe einer Sprachmemo festhalten und später, jedoch möglichst zeitnah, zu Papier bringen. Ein Spaziergang mit Kind und Diktierfunktion auf dem Handy – viele Fliegen mit einer Klappe schlagen: Baby schläft, ich kann abschalten, die Natur genießen, mich inspirieren lassen und neue Textideen – vorerst als Audiodatei – festhalten. Obwohl ich es nicht mag, meine eigene Stimme zu hören, wage ich das Experiment. Ich laufe los, erlaube der Sprach-App noch kurz mich zu orten und so erhält meine erste Audio-Datei den Namen <em>Langendahlweg</em>.
 
 <strong>Frühling im Februar</strong>

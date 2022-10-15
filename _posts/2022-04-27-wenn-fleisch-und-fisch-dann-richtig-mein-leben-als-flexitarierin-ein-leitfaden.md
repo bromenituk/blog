@@ -11,37 +11,67 @@ featured: true
 hidden: true
 vgwort: 4261a335fc9a4b72923b6de4137726ea
 ---
-<h2><span style="font-weight: 400;">Mein Leben als Flexitarierin - ein Leitfaden</span></h2>
-<p><span style="font-weight: 400;">Bei meinen bisherigen Versuchen, die Welt zu retten, bin ich sowohl als Veganerin als auch als Flexitarierin kläglich gescheitert. Nachdem sich mein Frust jedoch gelegt hatte, kam ich zu dem Schluss, dass es beim Thema Umwelt- und Klimaschutz beim Individuum nicht nur Schwarz-weiß gibt. Ich habe mir für meine Ernährung selber eine Faustregel erarbeitet, die es mir möglich macht, unsere Erde zu schonen und dennoch auf nichts gänzlich verzichten zu müssen. Meine flexitarische Faustregel lautet: </span></p>
-<p><span style="font-weight: 400;">4-1-1-1</span></p>
-<p><span style="font-weight: 400;">4 Tage pro Woche vegetarisch</span></p>
-<p><span style="font-weight: 400;">1 Tag pro Woche vegan</span></p>
-<p><span style="font-weight: 400;">1 Tag pro Woche Fleisch</span></p>
-<p><span style="font-weight: 400;">1 Tag pro Woche Fisch</span></p>
-<p><span style="font-weight: 400;">Zusätzlich habe ich meine Faustregel um einen stetig wachsenden Leitfaden ergänzt, an den ich mich versuche, so gut es geht, zu halten.</span></p>
-<p><span style="font-weight: 400;">Grundsätzlich habe ich zum Beispiel begonnen, auf Bio-Qualität zu achten. Optimal sind Bio-Anbauverbände - auch bei regionaler Ware. Ebenso haben nun saisonale Produkte Vorrang. Flugware wie Mangos und Papayas oder frische Erdbeeren im Winter müssen einfach nicht sein.</span></p>
-<p><span style="font-weight: 400;">Ich halte Ausschau nach Bio-Labels und anderen Siegeln, die Gentechnik im Futter ausschließen - wie das “Ohne Gentechnik”-Siegel. Auch bevorzuge ich Produkte mit Fair-Siegeln wie “Fairtrade” oder “GEPA”. Etwa 50 Prozent der Fairtrade-Produkte sind zudem biozertifiziert, bei GEPA sogar 75 Prozent.</span></p>
-<p><span style="font-weight: 400;">Beim Kauf von Eiern sollte an erster Stelle eine “0” stehen. Diese steht für eine ökologische Haltung.</span></p>
-<p><span style="font-weight: 400;">Am wichtigsten ist mir jedoch die Herkunft von Fleisch und Fisch auf meinem Teller. Hier lautet meine Devise: Wenn Fleisch und Fisch, dann richtig!</span></p>
-<h3><span style="font-weight: 400;">Leitfaden zum Einkauf von Fleisch</span></h3>
-<h4><i><span style="font-weight: 400;">Meine erste Wahl</span></i></h4>
-<p><span style="font-weight: 400;">Waren, die das EU-Biosiegel tragen, erfüllen die Grundlagen der ökologischen und tiergerechten Landwirtschaft nach europäischem Standard. Die Umweltauswirkungen der ökologischen Landwirtschaft sind grundsätzlich wesentlich positiver zu beurteilen als die der konventionellen Landwirtschaft. Die Tiere haben hier in der Regel eine vielfältiger gestaltete Umgebung mit Tageslicht, frischer Luft und mehr Platz. Es sind weitaus weniger schmerzhafte Eingriffe wie das Kupieren der Schweineschwänze zulässig.</span></p>
-<p><span style="font-weight: 400;">EU-Biobetriebe dürfen bis zu 80% des Futters zukaufen und pro Hektar Futterfläche maximal 14 Mastschweine halten. Die Siegel von Bioverbänden wie Biokreis, Bioland, Biopark, Demeter und Naturland erfüllen über die EU-Mindestanforderungen hinaus Zusatzkriterien. Beispielsweise muss das Futter für Schweine und Geflügel zu mindestens 50% aus eigenem Betrieb oder einer regionalen Kooperation stammen, je Hektar Futterfläche dürfen maximal 10 Mastschweine gehalten werden.</span></p>
-<p><span style="font-weight: 400;">EU-Wildfleisch aus regulierter sowie nachhaltiger Jagd ist eine verantwortungsvolle Nutzung natürlicher Ressourcen (genauso Damwild in Gatterhaltung). Wildfleisch kann als Nischenprodukt zu einem guten Mix beim Fleischkonsum beitragen.</span></p>
-<h4><i><span style="font-weight: 400;">Meine zweite Wahl</span></i></h4>
-<p><span style="font-weight: 400;">Regionales Weidefleisch kommt größtenteils ohne Kraftfutter aus und ist deshalb ressourcenschonend. Auch in der Haltung ist es der herkömmlichen Mast überlegen. Es gibt aber kein einheitliches Zertifizierungssystem. Am besten selbst überzeugen und nachfragen oder einen Ausflug aufs Land machen und den Betrieb besuchen.</span></p>
-<p><span style="font-weight: 400;">Das Neuland-Siegel schreibt deutlich höhere Tierhaltungsstandards als konventionell üblich vor. Beispielsweise haben die Tiere Auslauf ins Freie und dürfen auf Stroh liegen. Es wird auf Soja ohne Gentechnik und auf heimische Futtermittel geachtet. Die Produktion der Futtermittel nach Biokriterien ist allerdings keine Pflicht. Außerdem ist der Einsatz von chemisch-synthetischen Pestiziden und Kunstdünger im Ackerbau nicht untersagt. Dieses Siegel sollte also nur zweite Wahl sein.</span></p>
-<p><span style="font-weight: 400;">Noch relativ neu und daher noch nicht auf vielen Produkten zu finden sind das Einstiegs- und Premium-Siegel des Deutschen Tierschutzbunds. Das Premium-Siegel steht für Auslauf der Tiere, Verzicht auf Gen-Futter und eine Begrenzung auf 2.000 Schweine pro Stall. Ebenfalls sind eine verlängerte Mastphase vorgeschrieben und das Abschneiden der Schweineschwänze verboten. Das Einstiegssiegel hingegen lässt Genfutter und bis zu 3.000 Schweine im Stall zu. Es verpflichtet nicht zu Auslaufmöglichkeiten für die Tiere. Hierzu sollte man nur greifen, wenn sich keine bessere Alternative bietet.</span></p>
-<p><span style="font-weight: 400;">Ähnlich verhält es sich mit den zwei Siegeln der Tierschutzorganisation Vier Pfoten. Ihr Premiumsiegel steht für mehr Platz im Stall und regelmäßigen Auslauf, verlängerte Mastphasen, keine Transportwege über vier Stunden sowie das Verbot des Abschneidens der Schweineschwänze.</span></p>
-<h4><i><span style="font-weight: 400;">Besser meiden</span></i></h4>
-<p><span style="font-weight: 400;">Konventionell produzierte Wurst- und Fleischprodukte haben enorme ökologische Auswirkungen. Der Anbau von Futterpflanzen führt zu massiver Abholzung wertvoller Wälder z.B. in Südamerika und trägt so zu einem enormen Verlust an Artenvielfalt und zu hohen Treibhausgasemissionen bei. In Deutschland belasten Nährstoffüberschüsse aus der Tierhaltung unsere Gewässer und ebenso unsere Artenvielfalt. Besonders zu bemängeln sind die unzureichenden Anforderungen an die Tierhaltung, da die Tiere viel zu wenig Platz haben und keine Möglichkeiten, ihre natürlichen Verhaltensweisen auszuleben.</span></p>
-<p><span style="font-weight: 400;">Konventionelle Markenlabels für Wurst und Fleisch suggerieren häufig kleinbäuerliche Idylle. Dies ist aber reines Marketing ohne Zusatzanforderungen von ökologischem Mehrwert. QS-Siegel erfüllen keinerlei ökologische Nachhaltigkeitskriterien und nur minimale Tierhaltungsanforderungen. QS ist eine Initiative der Ernährungswirtschaft. Sie toleriert wenig Platz und fehlenden Auslauf, Genfutter, das Abschneiden von Schweineschwänzen sowie Tiertransporte zum Schlachthof mit 24 Stunden Dauer.</span></p>
-<p><span style="font-weight: 400;">Ebenso irreführend ist das Label der Initiative Tierwohl. Hierhinter steckt ein Zusammenschluss aus Landwirtschaft, Fleischwirtschaft und Lebensmitteleinzelhandel – finanziert durch Aldi, Lidl und Co. Waren mit diesem Siegel stammen nicht zwangsläufig aus besserer Tierhaltung, da sich die Haltungskriterien nur geringfügig vom gesetzlichen Mindeststandard unterscheiden.</span></p>
-<p><span style="font-weight: 400;">DLG-Label sind häufig auf Fleischwaren zu finden. Zum Großteil werden diese von der Agrar- und Ernährungswirtschaft finanziert. Bewertet werden lediglich Geschmack, Aussehen, Geruch und andere sensorische Eigenschaften der Produkte und sie geben keinerlei Auskunft über die Haltung der Tiere und den Einsatz von Gentechnik oder Antibiotika.</span></p>
-<p><span style="font-weight: 400;">Importierte Flug- oder Schiffsware wie beispielsweise Rindfleisch aus Argentinien ist mit sehr hohen CO2-Emissionen behaftet und sollte daher ebenfalls gemieden werden.</span></p>
-<h3><span style="font-weight: 400;">Leitfaden zum Einkauf von Fisch</span></h3>
-<p><span style="font-weight: 400;">Bei Lachs darauf achten, dass es sich um Wildfang aus dem Nordwestpazifik handelt, welcher mit Fallen gefangen wurde.</span></p>
-<p><span style="font-weight: 400;">Beim Kauf von Thunfisch am besten Gelbflossenthunfisch oder Skipjack bzw. Bonito aus Wildfang aus dem West- und Zentralpazifik wählen. Und bitte berücksichtigen, dass er mit Handleinen, Ringwaden ohne Fischsammler oder der Methode „Rute und Leine“ gefangen wurde. Sehr hilfreich hier: das Siegel für Angelrutenfang.</span></p>
-<p><span style="font-weight: 400;">Solltet ihr darüber hinaus anderen Fisch essen wollen, empfehle ich den Fischratgeber von Greenpeace. Dieser ist auch als App verfügbar und hat sich für mich schon mehrfach als hilfreich erwiesen.</span></p>
-<p><span style="font-weight: 400;">Die Liste der Fische, auf die laut Greenpeace gänzlich verzichtet werden sollte, ist erschreckend lang. Unbedingt gemieden sollen unter anderem Alaska-Seelachs, Dornhai, Granatbarsch, Hoki, Rotbarsch, Schnapper, Sardinelle, Seewolf, Schwarzer Seehecht, Seeteufel, Seezunge, Makrele, Marlin und Wittling, ebenso die gefährdeten Arten Roter Thun und Europäischer Aal.</span></p>
-<!-- /wp:tadv/classic-paragraph -->
+## Mein Leben als Flexitarierin - ein Leitfaden
+
+Bei meinen bisherigen Versuchen, die Welt zu retten, bin ich sowohl als Veganerin als auch als Flexitarierin kläglich gescheitert. Nachdem sich mein Frust jedoch gelegt hatte, kam ich zu dem Schluss, dass es beim Thema Umwelt- und Klimaschutz beim Individuum nicht nur Schwarz-weiß gibt. Ich habe mir für meine Ernährung selber eine Faustregel erarbeitet, die es mir möglich macht, unsere Erde zu schonen und dennoch auf nichts gänzlich verzichten zu müssen. Meine flexitarische Faustregel lautet:
+
+<!--end_excerpt-->
+
+**4-1-1-1**
+
+- **4** Tage pro Woche vegetarisch
+- **1** Tag pro Woche vegan
+- **1** Tag pro Woche Fleisch
+- **1** Tag pro Woche Fisch
+
+Zusätzlich habe ich meine Faustregel um einen stetig wachsenden Leitfaden ergänzt, an den ich mich versuche, so gut es geht, zu halten.
+
+Grundsätzlich habe ich zum Beispiel begonnen, auf Bio-Qualität zu achten. Optimal sind Bio-Anbauverbände - auch bei regionaler Ware. Ebenso haben nun saisonale Produkte Vorrang. Flugware wie Mangos und Papayas oder frische Erdbeeren im Winter müssen einfach nicht sein.
+
+Ich halte Ausschau nach Bio-Labels und anderen Siegeln, die Gentechnik im Futter ausschließen - wie das “Ohne Gentechnik”-Siegel. Auch bevorzuge ich Produkte mit Fair-Siegeln wie “Fairtrade” oder “GEPA”. Etwa 50 Prozent der Fairtrade-Produkte sind zudem biozertifiziert, bei GEPA sogar 75 Prozent.
+
+Beim Kauf von Eiern sollte an erster Stelle eine “0” stehen. Diese steht für eine ökologische Haltung.
+
+Am wichtigsten ist mir jedoch die Herkunft von Fleisch und Fisch auf meinem Teller. Hier lautet meine Devise: Wenn Fleisch und Fisch, dann richtig!
+
+### Leitfaden zum Einkauf von Fleisch
+
+#### *Meine erste Wahl*
+
+Waren, die das EU-Biosiegel tragen, erfüllen die Grundlagen der ökologischen und tiergerechten Landwirtschaft nach europäischem Standard. Die Umweltauswirkungen der ökologischen Landwirtschaft sind grundsätzlich wesentlich positiver zu beurteilen als die der konventionellen Landwirtschaft. Die Tiere haben hier in der Regel eine vielfältiger gestaltete Umgebung mit Tageslicht, frischer Luft und mehr Platz. Es sind weitaus weniger schmerzhafte Eingriffe wie das Kupieren der Schweineschwänze zulässig.
+
+EU-Biobetriebe dürfen bis zu 80% des Futters zukaufen und pro Hektar Futterfläche maximal 14 Mastschweine halten. Die Siegel von Bioverbänden wie Biokreis, Bioland, Biopark, Demeter und Naturland erfüllen über die EU-Mindestanforderungen hinaus Zusatzkriterien. Beispielsweise muss das Futter für Schweine und Geflügel zu mindestens 50% aus eigenem Betrieb oder einer regionalen Kooperation stammen, je Hektar Futterfläche dürfen maximal 10 Mastschweine gehalten werden.
+
+EU-Wildfleisch aus regulierter sowie nachhaltiger Jagd ist eine verantwortungsvolle Nutzung natürlicher Ressourcen (genauso Damwild in Gatterhaltung). Wildfleisch kann als Nischenprodukt zu einem guten Mix beim Fleischkonsum beitragen.
+
+#### *Meine zweite Wahl*
+
+Regionales Weidefleisch kommt größtenteils ohne Kraftfutter aus und ist deshalb ressourcenschonend. Auch in der Haltung ist es der herkömmlichen Mast überlegen. Es gibt aber kein einheitliches Zertifizierungssystem. Am besten selbst überzeugen und nachfragen oder einen Ausflug aufs Land machen und den Betrieb besuchen.
+
+Das Neuland-Siegel schreibt deutlich höhere Tierhaltungsstandards als konventionell üblich vor. Beispielsweise haben die Tiere Auslauf ins Freie und dürfen auf Stroh liegen. Es wird auf Soja ohne Gentechnik und auf heimische Futtermittel geachtet. Die Produktion der Futtermittel nach Biokriterien ist allerdings keine Pflicht. Außerdem ist der Einsatz von chemisch-synthetischen Pestiziden und Kunstdünger im Ackerbau nicht untersagt. Dieses Siegel sollte also nur zweite Wahl sein.
+
+Noch relativ neu und daher noch nicht auf vielen Produkten zu finden sind das Einstiegs- und Premium-Siegel des Deutschen Tierschutzbunds. Das Premium-Siegel steht für Auslauf der Tiere, Verzicht auf Gen-Futter und eine Begrenzung auf 2.000 Schweine pro Stall. Ebenfalls sind eine verlängerte Mastphase vorgeschrieben und das Abschneiden der Schweineschwänze verboten. Das Einstiegssiegel hingegen lässt Genfutter und bis zu 3.000 Schweine im Stall zu. Es verpflichtet nicht zu Auslaufmöglichkeiten für die Tiere. Hierzu sollte man nur greifen, wenn sich keine bessere Alternative bietet.
+
+Ähnlich verhält es sich mit den zwei Siegeln der Tierschutzorganisation Vier Pfoten. Ihr Premiumsiegel steht für mehr Platz im Stall und regelmäßigen Auslauf, verlängerte Mastphasen, keine Transportwege über vier Stunden sowie das Verbot des Abschneidens der Schweineschwänze.
+
+#### *Besser meiden*
+
+Konventionell produzierte Wurst- und Fleischprodukte haben enorme ökologische Auswirkungen. Der Anbau von Futterpflanzen führt zu massiver Abholzung wertvoller Wälder z.B. in Südamerika und trägt so zu einem enormen Verlust an Artenvielfalt und zu hohen Treibhausgasemissionen bei. In Deutschland belasten Nährstoffüberschüsse aus der Tierhaltung unsere Gewässer und ebenso unsere Artenvielfalt. Besonders zu bemängeln sind die unzureichenden Anforderungen an die Tierhaltung, da die Tiere viel zu wenig Platz haben und keine Möglichkeiten, ihre natürlichen Verhaltensweisen auszuleben.
+
+Konventionelle Markenlabels für Wurst und Fleisch suggerieren häufig kleinbäuerliche Idylle. Dies ist aber reines Marketing ohne Zusatzanforderungen von ökologischem Mehrwert. QS-Siegel erfüllen keinerlei ökologische Nachhaltigkeitskriterien und nur minimale Tierhaltungsanforderungen. QS ist eine Initiative der Ernährungswirtschaft. Sie toleriert wenig Platz und fehlenden Auslauf, Genfutter, das Abschneiden von Schweineschwänzen sowie Tiertransporte zum Schlachthof mit 24 Stunden Dauer.
+
+Ebenso irreführend ist das Label der Initiative Tierwohl. Hierhinter steckt ein Zusammenschluss aus Landwirtschaft, Fleischwirtschaft und Lebensmitteleinzelhandel – finanziert durch Aldi, Lidl und Co. Waren mit diesem Siegel stammen nicht zwangsläufig aus besserer Tierhaltung, da sich die Haltungskriterien nur geringfügig vom gesetzlichen Mindeststandard unterscheiden.
+
+DLG-Label sind häufig auf Fleischwaren zu finden. Zum Großteil werden diese von der Agrar- und Ernährungswirtschaft finanziert. Bewertet werden lediglich Geschmack, Aussehen, Geruch und andere sensorische Eigenschaften der Produkte und sie geben keinerlei Auskunft über die Haltung der Tiere und den Einsatz von Gentechnik oder Antibiotika.
+
+Importierte Flug- oder Schiffsware wie beispielsweise Rindfleisch aus Argentinien ist mit sehr hohen CO2-Emissionen behaftet und sollte daher ebenfalls gemieden werden.
+
+### Leitfaden zum Einkauf von Fisch
+
+Bei Lachs darauf achten, dass es sich um Wildfang aus dem Nordwestpazifik handelt, welcher mit Fallen gefangen wurde.
+
+Beim Kauf von Thunfisch am besten Gelbflossenthunfisch oder Skipjack bzw. Bonito aus Wildfang aus dem West- und Zentralpazifik wählen. Und bitte berücksichtigen, dass er mit Handleinen, Ringwaden ohne Fischsammler oder der Methode „Rute und Leine“ gefangen wurde. Sehr hilfreich hier: das Siegel für Angelrutenfang.
+
+Solltet ihr darüber hinaus anderen Fisch essen wollen, empfehle ich den Fischratgeber von Greenpeace. Dieser ist auch als App verfügbar und hat sich für mich schon mehrfach als hilfreich erwiesen.
+
+Die Liste der Fische, auf die laut Greenpeace gänzlich verzichtet werden sollte, ist erschreckend lang. Unbedingt gemieden sollen unter anderem Alaska-Seelachs, Dornhai, Granatbarsch, Hoki, Rotbarsch, Schnapper, Sardinelle, Seewolf, Schwarzer Seehecht, Seeteufel, Seezunge, Makrele, Marlin und Wittling, ebenso die gefährdeten Arten Roter Thun und Europäischer Aal.

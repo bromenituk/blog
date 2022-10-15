@@ -8,11 +8,13 @@ comments: false
 categories: [Allgemein, Studium]
 tags: [Allgemein, Studium]
 ---
-<p><strong>Sich online präsentieren: die perfekte Vorbereitung</strong></p>
+## Sich online präsentieren: die perfekte Vorbereitung
 
-<p>Die Coronapandemie hat Onlinemeetings zur Normalität werden lassen. Deshalb greifen Unternehmen nun auch bei Bewerbungsgesprächen verstärkt auf Videokonferenz-Plattformen zurück.</p>
+Die Coronapandemie hat Onlinemeetings zur Normalität werden lassen. Deshalb greifen Unternehmen nun auch bei Bewerbungsgesprächen verstärkt auf Videokonferenz-Plattformen zurück.
 
-<p>Meist laufen virtuelle Einstellungsgespräche genauso ab wie persönliche. Allerdings gibt es ein paar Details, auf die du zu Hause besonders achten solltest. Wenn du diese Top 5 Dos and Don’ts berücksichtigst, schaffst du bestmögliche Voraussetzungen für einen positiven ersten Eindruck.</p>
+Meist laufen virtuelle Einstellungsgespräche genauso ab wie persönliche. Allerdings gibt es ein paar Details, auf die du zu Hause besonders achten solltest. Wenn du diese Top 5 Dos and Don’ts berücksichtigst, schaffst du bestmögliche Voraussetzungen für einen positiven ersten Eindruck.
+
+<!--end_excerpt-->
 
 <p><strong>Online-Bewerbungsgespräch #Hack 1: frühzeitiger Technik-Check</strong></p>
 

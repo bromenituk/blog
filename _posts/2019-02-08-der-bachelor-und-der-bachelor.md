@@ -9,19 +9,14 @@ categories: [Allgemein, bachelor, Bewegendes, lernen, rtl, studium, universität
 tags: [Allgemein, bachelor, Bewegendes, lernen, rtl, studium, universität]
 vgwort: 7606fb1a152e4af5ad35c39be44f2539
 ---
-<!-- wp:paragraph -->
-<p>Der Bachelor: Ein
-akademischer Grad mit einer Regelstudienzeit von drei bis vier Jahren und eine
+<p>Der Bachelor: Ein akademischer Grad mit einer Regelstudienzeit von drei bis vier Jahren und eine
 Fernsehsendung auf RTL, in welcher ein attraktiver Junggeselle seine Lebenspartnerin
 finden soll.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Was haben der Bachelor und
-der Bachelor gemeinsam?</p>
-<!-- /wp:paragraph -->
+<p>Was haben der Bachelor und der Bachelor gemeinsam?</p>
 
-<!-- wp:paragraph -->
+<!--end_excerpt-->
+
 <p>Auf den ersten Blick?</p>
 <!-- /wp:paragraph -->
 

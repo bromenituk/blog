@@ -9,12 +9,17 @@ categories: [Allgemein, Nachhaltigkeit]
 tags: [Allgemein, Nachhaltigkeit]
 vgwort: 4e6e62d46d084f94a8b0b1cfe1eecde4
 ---
-<p><strong>Weniger umweltbelastende Stoffe ins Abwasser, Müll reduzieren</strong></p>
-<p><span style="font-weight: 400;">Da vermutlich niemand von uns von heute auf morgen alleine die Welt retten wird, ist es doch schon ein guter Anfang, wenn jede und jeder heute ein klitzekleines Bisschen dazu beiträgt. Und das geht viel einfacher, als ihr jetzt vielleicht befürchtet.</span></p>
-<p><span style="font-weight: 400;">Beschränken wir uns zum Beispiel erst einmal aufs Badezimmer und schauen ein wenig genauer hin:</span></p>
-<p><span style="font-weight: 400;">Wo können wir unnötigen Müll sparen?</span></p>
-<p><span style="font-weight: 400;">Wie können wir Plastik vermeiden?</span></p>
-<p><span style="font-weight: 400;">Wo können wir, ohne uns persönlich großartig einzuschränken, Ressourcen sparen und die Umwelt schonen?</span></p>
+## Weniger umweltbelastende Stoffe ins Abwasser, Müll reduzieren
+
+Da vermutlich niemand von uns von heute auf morgen alleine die Welt retten wird, ist es doch schon ein guter Anfang, wenn jede und jeder heute ein klitzekleines Bisschen dazu beiträgt. Und das geht viel einfacher, als ihr jetzt vielleicht befürchtet.
+
+Beschränken wir uns zum Beispiel erst einmal aufs Badezimmer und schauen ein wenig genauer hin:
+- Wo können wir unnötigen Müll sparen?
+- Wie können wir Plastik vermeiden?
+- Wo können wir, ohne uns persönlich großartig einzuschränken, Ressourcen sparen und die Umwelt schonen?
+
+<!--end_excerpt-->
+
 <p><strong>#Badezimmer-Hack 1: Recycling-Klopapier</strong></p>
 <p><span style="font-weight: 400;">Verzichtet auf Toilettenpapier aus sogenannten Frischfasern. Für jedes einzelne Blatt werden hier Fichten, Kiefern, Birken oder Eukalyptus-Bäume gefällt, entrindet, zerkleinert und mit aufwändigen chemischen und mechanischen Prozessen zu Zellstoff für die Klopapierproduktion aufbereitet.</span></p>
 <p><span style="font-weight: 400;">Leider verbinden viele Menschen mit Recycling-Klopapier noch immer das Schmirgelpapier, das jungen Menschen einst auf Schultoiletten zugemutet wurde. Recycling-Klopapier gibt es von unterschiedlichen Anbietern. Einige davon sind mindestens so kuschelweich wie herkömmliches Toilettenpapier aus Frischfasern. Außerdem rettet ihr so beim Verrichten eurer großen und kleinen Geschäfte nicht nur das Leben vieler Bäume: Bei der Produktion von Recyclingpapier werden bis zu 60 % weniger Energie benötigt, bis zu 70 % Wasser gespart und CO2-Emissionen durch den Holztransport entfallen ganz!</span></p>
