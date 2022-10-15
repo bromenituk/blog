@@ -1,7 +1,7 @@
 ---
 layout: post
 author: bromenituk
-image: assets/images/posts/2022-04-27-ein-gruener-geburtstag-saftiger-karottenkuchen.png
+image: assets/images/posts/2022-04-27-wenn-fleisch-und-fisch-dann-richtig-mein-leben-als-flexitarierin-ein-leitfaden.png
 title: Wenn Fleisch und Fisch, dann richtig!
 date: 2022-04-27 11:59
 comments: false
