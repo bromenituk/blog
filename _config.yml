@@ -4,7 +4,7 @@ title: "Bromenituk"
 description: "Einmal eine Portion Gedanken für alle"
 logo: 'assets/images/apple-touch-icon.png'
 favicon: 'assets/images/apple-touch-icon.png'
-baseurl: ''
+baseurl: '/blog-2'
 google_analytics: 'UA-86180764-1'
 # disqus: 'Bromenituk'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
