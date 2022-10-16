@@ -7,6 +7,7 @@ sitemap: false
     "short_name": "Bromenituk",
     "url": "{{ site.url }}",
     "start_url": "/",
+    "id": "/",
     "icons": [
         {
             "src": "{{ site.baseurl }}/assets/images/android-chrome-192x192.png",
