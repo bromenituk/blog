@@ -6,8 +6,8 @@ tagline: "Einmal eine Portion Gedanken für alle"
 subtitle: "Einmal eine Portion Gedanken für alle"
 logo: 'assets/images/apple-touch-icon.png'
 favicon: 'assets/images/apple-touch-icon.png'
-baseurl: '/blog'
-url: https://bromenituk.github.io
+baseurl: ''
+url: https://bromenituk.de
 google_analytics: 'UA-86180764-1'
 # disqus: 'Bromenituk'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
